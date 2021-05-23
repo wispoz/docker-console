@@ -6,10 +6,10 @@
 Installation
 ------------
 
-```javascript
-
+```bash
+git clone git@github.com:wispoz/docker-console.git
 npm install
-
+npm run build
 ```
 
 Running
