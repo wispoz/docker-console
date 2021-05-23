@@ -7,7 +7,8 @@ Installation
 ------------
 
 ```bash
-git clone git@github.com:wispoz/docker-console.git
+git clone https://github.com/wispoz/docker-console.git
+cd docker-console
 npm install
 npm run build
 ```
